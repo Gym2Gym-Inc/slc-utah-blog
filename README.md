@@ -1,7 +1,21 @@
 ---
 description: How Gym2Gym is Revolutionizing Fitness in Salt Lake City.
 cover: .gitbook/assets/SLC_Banner Ad.png
-coverY: 350
+coverY: -200.23999999999995
+layout:
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
 ---
 
 # Salt Lake City, Utah

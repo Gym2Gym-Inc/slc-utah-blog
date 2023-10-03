@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Salt Lake City, Utah](README.md)
+* [How to make an effective Gym2Gym listing](how-to-make-an-effective-gym2gym-listing.md)
 * [Profit From Your Private Gym: How to monetize a fitness space](profit-from-your-private-gym-how-to-monetize-a-fitness-space.md)
 * [Why Private Gyms Are More Hygienic For Your Fitness Journey](why-private-gyms-are-more-hygienic-for-your-fitness-journey.md)
 * [Working Out at Home: Better or worse than commercial gyms?](working-out-at-home-better-or-worse-than-commercial-gyms.md)
